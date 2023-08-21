@@ -6,7 +6,7 @@ body, #quote, #author {
 .quoteContainer {
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 100px;
     padding: 50px;
     width: 80%;
     border: 1px solid grey;
@@ -14,13 +14,14 @@ body, #quote, #author {
 }
 
 #quote {
-    font-family: "Bradley Hand ITC";
+    font-family: "Candy Round BTN";
     text-align: center;
-    font-size: 20px;
+    font-size: 48px;
 }
 
 #author {
     margin-top: 10px;
     font-family: "Bradley Hand ITC";
-    font-size: 35px;
+    font-size: 64px;
+    color: salmon;
 }
